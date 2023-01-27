@@ -1,0 +1,173 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Anton', sans-serif, 'Open Sans';
+    color: black;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.header {
+    background: url('../img/header-bg.jpg') no-repeat center top / cover;
+    padding-top: 57px;
+    color: #fff;
+}
+
+header a {
+    color: #fff;
+}
+
+.logo {
+    margin-right: 69px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    letter-spacing: 0.1em;
+}
+
+.menu li {
+    margin-right: 40px;
+}
+
+.tel {
+    font-size: 17px;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    margin-left: auto;
+}
+
+.nav {
+    display: flex;
+
+    align-items: center;
+    margin-top: -60px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.offer {
+    margin: 0;
+    padding-top: 321px;
+    padding-bottom: 322px;
+}
+
+.offer p {
+    font-size: 30px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.offer h1 {
+    font-size: 100px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    margin-top: -9px;
+    margin-bottom: 19px;
+}
+
+.btn {
+    display: block;
+    font-size: 17px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 18px 23px;
+    border: 1px solid #fff;
+    width: 238px;
+}
+
+.about {
+    margin-top: 113px;
+}
+
+.about p {
+    width: 564px;
+    
+    font-family: 'Open Sans';
+    line-height: 26px;
+    margin-top: 13px;
+    margin-right: 36px;
+}
+
+.about h3 {
+    text-transform: uppercase;
+    font-size: 25px;
+    text-align: justify;
+    width: 300;
+    height: 49px;
+    letter-spacing: 0.04em;
+}
+
+.about h2 {
+    text-transform: uppercase;
+    font-size: 50px;
+    width: 334px;
+    height: 73px;
+    letter-spacing: 0.02em;
+}
+
+.text {
+    display: flex;
+    margin-top: 58px;
+}
+
+img {
+    margin: 0;
+    padding-top: 67px;
+    padding-bottom: 114px;
+}
+
+.img-1 {
+    padding-right: 10px;
+}
+
+.img-2 {
+
+}
+
+.img-3 {
+    padding-left: 42px;
+}
+
+.footer {
+    font-family: 'Open Sans';
+}
+
+.f-text {
+    display: flex;
+    width: 600px;
+    margin: 0;
+    padding-bottom: 80px;
+}
+
+.author {
+    margin-left: 55px;
+    margin-right: 55px;
+}
